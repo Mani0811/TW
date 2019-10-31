@@ -1,0 +1,12 @@
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.csproj.CoreCompileInputs.cache
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.AssemblyInfoInputs.cache
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.AssemblyInfo.cs
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.deps.json
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.runtimeconfig.json
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.runtimeconfig.dev.json
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.dll
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.pdb
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.dll
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.pdb
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\obj\Debug\netcoreapp2.1\Merchant's Guide to the Galaxy.csprojAssemblyReference.cache
+C:\Mani\Git\TW\Merchant's Guide to the Galaxy\bin\Debug\netcoreapp2.1\NLog.config

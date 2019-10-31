@@ -1,0 +1,12 @@
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.csprojAssemblyReference.cache
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.csproj.CoreCompileInputs.cache
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.AssemblyInfoInputs.cache
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.AssemblyInfo.cs
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\ConferenceTrackManagement.deps.json
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\ConferenceTrackManagement.runtimeconfig.json
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\ConferenceTrackManagement.runtimeconfig.dev.json
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\ConferenceTrackManagement.dll
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\ConferenceTrackManagement.pdb
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.dll
+C:\Mani\Git\TW\ConferenceTrackManagement\obj\Debug\netcoreapp2.1\ConferenceTrackManagement.pdb
+C:\Mani\Git\TW\ConferenceTrackManagement\bin\Debug\netcoreapp2.1\NLog.config
